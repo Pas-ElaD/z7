@@ -1,0 +1,27 @@
+body 
+{ 
+    background-image: url('../z7/cloud.png');
+    background-position: center; 
+}
+#pasek1 {
+    margin-left: 20px; /* odstęp kontenera od lewej krawędzi kontenera nadrzędnego */
+    background-color: #0C3052;
+    width: auto;
+}
+
+#pasek2 {
+    margin-left: 20px; /* odstęp kontenera od lewej krawędzi kontenera nadrzędnego */
+    background-color: #DFEAF5;
+    width: auto;
+}
+
+#menu{
+  width: 400px; /* szerokość menu */
+  min-height: 600px; /* minimalna wysokość */
+  float:left; /* oblewanie element */
+  margin-left: 20px; /* odstęp kontenera od lewej krawędzi kontenera nadrzędnego */
+  background-color: #66CCFF; /* kolor tła */
+  background: linear-gradient(to left, #7BB1E3, #99CCFF);
+ 
+}
+
